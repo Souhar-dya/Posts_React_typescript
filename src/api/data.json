@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Getting Started with React",
+      "body": "Learn the basics of React and how to build components.",
+      "userId": 1,
+      "createdAt": "2025-03-20T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Understanding State Management",
+      "body": "Explore different ways to manage state in your React applications.",
+      "userId": 2,
+      "createdAt": "2025-03-21T11:30:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Building REST APIs",
+      "body": "A comprehensive guide to creating scalable REST APIs with Express.js.",
+      "userId": 1,
+      "createdAt": "2025-03-22T14:15:00Z"
+    },
+    {
+      "id": "4",
+      "title": "TypeScript Tips",
+      "body": "Helpful tips and tricks for working with TypeScript in your projects.",
+      "userId": 3,
+      "createdAt": "2025-03-23T09:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "React Router Deep Dive",
+      "body": "Master routing in React with React Router v7.",
+      "userId": 2,
+      "createdAt": "2025-03-24T16:20:00Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
