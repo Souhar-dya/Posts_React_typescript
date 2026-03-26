@@ -32,6 +32,7 @@ const DepertmentForm = () => {
                 <label htmlFor="deptCode">Department Code:</label>
                 <input type="text" id="deptCode" placeholder="Department Code" />
                 <br />
+                <label htmlFor="deptManager">Department Manager:</label>
                 <select name="deptManager" id="deptManager">
                     <option value="">Select Manager</option>
                     <option value="manager1">Manager 1</option>
